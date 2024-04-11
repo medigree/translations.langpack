@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" version="2.0">
+  <file source-language="en" target-language="pt" id="CodeSystem-administrative-gender" original="Resource CodeSystem-administrative-gender" datatype="KEYVALUEJSON">
+    <body>
+      <trans-unit id="CodeSystem-administrative-gender" resname="administrative-gender" approved="yes">
+        <source>AdministrativeGender</source> <target state="translated">Sexo</target> </trans-unit>
+      <trans-unit id="CodeSystem-administrative-gender" resname="administrative-gender/title" approved="yes">
+        <source>AdministrativeGender</source> <target state="translated">Sexo</target> </trans-unit>
+      <trans-unit id="CodeSystem-administrative-gender" resname="administrative-gender/description" approved="yes">
+        <source>The gender of a person used for administrative purposes.</source> <target state="translated">Género da pessoa, usado em aspectos administrativos</target> </trans-unit>
+      <trans-unit id="CodeSystem-administrative-gender" resname="male" approved="yes">
+             <notes>
+               <note id="n1">Male.</note>
+             </notes>
+        <source>Male</source> <target state="translated">Masculino</target> </trans-unit>
+      <trans-unit id="CodeSystem-administrative-gender" resname="female" approved="yes">
+             <notes>
+               <note id="n1">Female.</note>
+             </notes>
+        <source>Female</source> <target state="translated">Feminino</target> </trans-unit>
+      <trans-unit id="CodeSystem-administrative-gender" resname="other" approved="yes">
+             <notes>
+               <note id="n1">Other.</note>
+             </notes>
+        <source>Other</source> <target state="translated">Outro</target> </trans-unit>
+      <trans-unit id="CodeSystem-administrative-gender" resname="unknown" approved="yes">
+             <notes>
+               <note id="n1">Unknown.</note>
+             </notes>
+        <source>Unknown</source> <target state="translated">Desconhecido</target> </trans-unit>
+    </body>
+  </file>
+</xliff>
