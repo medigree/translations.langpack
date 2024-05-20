@@ -1,0 +1,51 @@
+{
+  "resourceType": "ImplementationGuide",
+  "id": "fhir.translations.langpack",
+  "url": "http://example.org/langpack/ImplementationGuide/fhir.translations.langpack",
+  "version": "0.1.0",
+  "name": "LangPackDemo",
+  "title": "Language Pack Example",
+  "status": "draft",
+  "publisher": "Example Publisher",
+  "packageId": "fhir.translations.langpack",
+  "fhirVersion": [
+    "4.0.1"
+  ],
+  "definition": {
+    "resource": [],
+    "page": {
+      "nameUrl": "toc.html",
+      "title": "Table of Contents",
+      "generation": "html",
+      "page": [
+        {
+          "nameUrl": "index.html",
+          "title": "Home",
+          "generation": "markdown"
+        }
+      ]
+    },
+    "parameter": [
+      {
+        "code": "copyrightyear",
+        "value": "2023+"
+      },
+      {
+        "code": "releaselabel",
+        "value": "ci-build"
+      },
+      {
+        "code": "i18n-default-lang",
+        "value": "en"
+      },
+      {
+        "code": "i18n-lang",
+        "value": "pt"
+      },
+      {
+        "code": "translation-supplements",
+        "value": "input/translations2"
+      }
+    ]
+  }
+}
