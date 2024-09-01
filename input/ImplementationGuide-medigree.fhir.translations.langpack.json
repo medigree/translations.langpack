@@ -1,13 +1,13 @@
 {
   "resourceType": "ImplementationGuide",
-  "id": "fhir.translations.langpack",
-  "url": "http://example.org/langpack/ImplementationGuide/fhir.translations.langpack",
+  "id": "medigree.fhir.translations.langpack",
+  "url": "http://example.org/langpack/ImplementationGuide/medigree.fhir.translations.langpack",
   "version": "0.1.0",
   "name": "LangPackDemo",
   "title": "Language Pack Example",
   "status": "draft",
   "publisher": "Example Publisher",
-  "packageId": "fhir.translations.langpack",
+  "packageId": "medigree.fhir.translations.langpack",
   "fhirVersion": [
     "4.0.1"
   ],
