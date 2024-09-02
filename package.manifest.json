@@ -1,0 +1,6 @@
+{
+  "version" : "0.1.0",
+  "fhirVersion" : ["4.0.1"],
+  "date" : "20240902095749",
+  "name" : "medigree.fhir.translations.langpack"
+}
