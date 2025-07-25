@@ -1,0 +1,103 @@
+{
+  "date" : "Fri, 25 Jul, 2025 20:12:57 +0000",
+  "doco" : "For each file: start is seconds after start activity occurred. Length = milliseconds activity took",
+  "files" : [
+    {
+      "name" : "/fsh-generated/resources/ImplementationGuide-medigree.fhir.translations.langpack.json",
+      "size" : 1135,
+      "processes" : [
+        {
+          "activity" : "load",
+          "start" : 40,
+          "length" : 34
+        },
+        {
+          "activity" : "checkR4R4B",
+          "start" : 56,
+          "length" : 13
+        },
+        {
+          "activity" : "generateNarratives",
+          "start" : 56,
+          "length" : 97
+        },
+        {
+          "activity" : "validate",
+          "start" : 57,
+          "length" : 6285
+        },
+        {
+          "activity" : "translate",
+          "start" : 63,
+          "length" : 7
+        },
+        {
+          "activity" : "generate1",
+          "start" : 63,
+          "length" : 71
+        },
+        {
+          "activity" : "generate2",
+          "start" : 65,
+          "length" : 58
+        },
+        {
+          "activity" : "generateValidationPack",
+          "start" : 69,
+          "length" : 4
+        },
+        {
+          "activity" : "scanExamplesForR5",
+          "start" : 85,
+          "length" : 1
+        }
+      ]
+    },
+    {
+      "name" : "input/translations2/CodeSystem-administrative-gender.xliff",
+      "size" : 0,
+      "processes" : [
+        {
+          "activity" : "load",
+          "start" : 40,
+          "length" : 18
+        },
+        {
+          "activity" : "loadDepInfo",
+          "start" : 56,
+          "length" : 1
+        },
+        {
+          "activity" : "generateNarratives",
+          "start" : 56,
+          "length" : 22
+        },
+        {
+          "activity" : "validate",
+          "start" : 56,
+          "length" : 848
+        },
+        {
+          "activity" : "translate",
+          "start" : 63,
+          "length" : 1
+        },
+        {
+          "activity" : "generate1",
+          "start" : 63,
+          "length" : 17
+        },
+        {
+          "activity" : "generate2",
+          "start" : 65,
+          "length" : 483
+        },
+        {
+          "activity" : "generateValidationPack",
+          "start" : 69,
+          "length" : 1
+        }
+      ]
+    }
+  ]
+}
