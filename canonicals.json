@@ -1,0 +1,16 @@
+[
+  {
+    "id" : "cs-pt-administrative-gender",
+    "type" : "CodeSystem",
+    "url" : "http://example.org/langpack/CodeSystem/cs-pt-administrative-gender",
+    "version" : "0.1.0",
+    "name" : "AdministrativeGender"
+  },
+  {
+    "id" : "medigree.fhir.translations.langpack.pt",
+    "type" : "ImplementationGuide",
+    "url" : "http://example.org/langpack/ImplementationGuide/medigree.fhir.translations.langpack.pt",
+    "version" : "0.1.0",
+    "name" : "LangPackDemo"
+  }
+]

@@ -1,0 +1,19 @@
+LangPackDemo : Validation Results
+=========================================
+
+err = 1, warn = 5, info = 0
+$--
+Generated $--. FHIR version $-- for medigree.fhir.translations.langpack.pt#$-- (canonical = http://example.org/langpack)
+ Build Errors : 0 / 4 / 0
+ /work/fsh-generated/resources/ImplementationGuide-medigree.fhir.translations.langpack.pt : 0 / 0 / 1
+ /work/input/translations/pt/CodeSystem-administrative-gender : 1 / 1 / 1
+</table>
+== n/a ==
+WARNING: 1: The HTML fragment 'ip-statements.xhtml' is not included anywhere in the produced implementation guide
+WARNING: 2: An HTML fragment from the set [cross-version-analysis.xhtml, cross-version-analysis-inline.xhtml] is not included anywhere in the produced implementation guide
+WARNING: 3: An HTML fragment from the set [dependency-table.xhtml, dependency-table-short.xhtml, dependency-table-nontech.xhtml] is not included anywhere in the produced implementation guide
+WARNING: 4: The HTML fragment 'globals-table.xhtml' is not included anywhere in the produced implementation guide
+== fsh-generated/resources/ImplementationGuide-medigree.fhir.translations.langpack.pt.json ==
+== input/translations/pt/CodeSystem-administrative-gender.po ==
+ERROR: CodeSystem/cs-pt-administrative-gender: CodeSystem.caseSensitive: Os sistemas de códigos NÃO DEVEM ter um valor declarado para o elemento caseSensitive quando são um suplemento
+WARNING: CodeSystem/cs-pt-administrative-gender: CodeSystem: Os sistemas de códigos publicados DEVERIAM estar em conformidade com o perfil ShareableCodeSystem, que diz que o elemento CodeSystem.experimental é obrigatório, mas não está presente

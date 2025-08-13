@@ -1,0 +1,12 @@
+LangPackDemo
+=========================================
+
+Generic: line 0, col 0, Warning - The HTML fragment 'ip-statements.xhtml' is not included anywhere in the produced implementation guide (NOTFOUND)
+Generic: line 0, col 0, Warning - An HTML fragment from the set [cross-version-analysis.xhtml, cross-version-analysis-inline.xhtml] is not included anywhere in the produced implementation guide (NOTFOUND)
+Generic: line 0, col 0, Warning - An HTML fragment from the set [dependency-table.xhtml, dependency-table-short.xhtml, dependency-table-nontech.xhtml] is not included anywhere in the produced implementation guide (NOTFOUND)
+Generic: line 0, col 0, Warning - The HTML fragment 'globals-table.xhtml' is not included anywhere in the produced implementation guide (NOTFOUND)
+/work/input/translations/pt/CodeSystem-administrative-gender.po: line 0, col 0, Error - Os sistemas de códigos NÃO DEVEM ter um valor declarado para o elemento caseSensitive quando são um suplemento (BUSINESSRULE)
+/work/input/translations/pt/CodeSystem-administrative-gender.po: line 1, col 2360, Warning - Os sistemas de códigos publicados DEVERIAM estar em conformidade com o perfil ShareableCodeSystem, que diz que o elemento CodeSystem.experimental é obrigatório, mas não está presente (REQUIRED)
+
+err = 1, warn = 5, info = 0
+IG Publisher Version: 2.0.13
